@@ -32,7 +32,7 @@
   </a>
   <a href="https://discord.com/users/899748336389722183" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
-  </a href="https://twitter.com/_ne_al" target="_blank">
+  <a href="https://twitter.com/_ne_al" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="35" alt="twitter logo"  />
 </div>
 
