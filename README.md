@@ -1,4 +1,4 @@
-<p align="left">Hi i'm neal</p>
+<h2 align="left">Hi I am Neal I am a flutter dev, from India</h2>
 
 ###
 
