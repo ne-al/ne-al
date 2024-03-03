@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I'm Neal from India and I am a flutter developer.</p>
+<p align="left">Hey my name is Neal and i am a flutter developer from india 🇮🇳.</p>
 
 ###
 
