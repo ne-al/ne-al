@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=ne-al)
+
+
 <h1 align="left">Hey what's up👋</h1>
 
 ###
@@ -55,7 +58,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ne-al/ne-al/output/snake.svg" alt="Snake animation" />
-
-![](https://komarev.com/ghpvc/?username=ne-al)
 
 ###
