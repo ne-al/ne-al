@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">👨‍💻 Coding since 2023,<br>🎂 I arrived here in 2005<br>📈 Improving in flutter,<br>📖 Learning web development,<br>🎯 Goal: Software developer,</p>
+<p align="left">👨‍💻 Coding since 2023,<br>📈 Improving in flutter,<br>📖 Learning web development,<br>🎯 Goal: Software developer,</p>
 
 ###
 
