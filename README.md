@@ -56,6 +56,6 @@
 
 <img src="https://raw.githubusercontent.com/ne-al/ne-al/output/snake.svg" alt="Snake animation" />
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=ne-al)
 
 ###
