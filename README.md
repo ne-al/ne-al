@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">👨‍💻 Coding since 2022,<br>📈 Improving in flutter,<br>📖 Learning how to do ui/ux,<br>🎯 Goal: Software developer</p>
+<p align="left">👨‍💻 Coding since 2022<br>📈 Improving in flutter<br>📖 Learning how to do ui/ux<br>🎯 Goal: Software developer</p>
 
 ###
 
