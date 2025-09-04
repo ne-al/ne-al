@@ -18,9 +18,9 @@ Coding in flutter since August 7th 2023 using firebase as database. I have also 
 <a href="https://www.github.com/ne-al" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ne-al?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Badges
-
 ![](https://komarev.com/ghpvc/?username=ne-al&style=for-the-badge&abbreviated=true)
+
+### Badges
 
 <b>My GitHub Stats</b>
 
