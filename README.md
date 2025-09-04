@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=ne-al&style=for-the-badge&abbreviated=true)
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is NEAL
 =============================================================================================================================
 
@@ -21,6 +19,8 @@ Coding in flutter since August 7th 2023 using firebase as database. I have also 
 src="https://img.shields.io/github/followers/ne-al?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Badges
+
+![](https://komarev.com/ghpvc/?username=ne-al&style=for-the-badge&abbreviated=true)
 
 <b>My GitHub Stats</b>
 
